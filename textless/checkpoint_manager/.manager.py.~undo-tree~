@@ -1,0 +1,14 @@
+(undo-tree-save-format-version . 1)
+"01231a86343309076ee46bf14a4b6464f91fae3b"
+[nil nil nil nil (25775 46278 911322 918000) 0 nil]
+([nil nil ((nil rear-nonsticky nil 346 . 347) (nil fontified nil 289 . 347) (289 . 347) (288 . 289) (t 25775 46126 831016 210000)) nil (25775 46278 911322 404000) 0 nil])
+([nil nil ((#("from torchaudio.datasets.utils import download_url
+" 0 4 (face font-lock-keyword-face fontified t) 4 31 (fontified t) 31 37 (face font-lock-keyword-face fontified t) 37 51 (fontified t)) . 238) (undo-tree-id14 . -49) (undo-tree-id15 . -51) (undo-tree-id16 . -51) (undo-tree-id17 . -51) (undo-tree-id18 . -51) (undo-tree-id19 . -51) (undo-tree-id20 . -51) (undo-tree-id21 . -49) (undo-tree-id22 . -51) (undo-tree-id23 . -50) 287) nil (25775 46278 911321 518000) 0 nil])
+([nil nil ((1079 . 1080) (1061 . 1079)) nil (25775 46278 911318 562000) 0 nil])
+([nil nil ((#("            hash_value=checkpoint.sha256,
+" 0 22 (fontified t) 22 23 (face font-lock-operator-face fontified t) 23 42 (fontified t)) . 1082) (undo-tree-id10 . -40) (undo-tree-id11 . -41) (undo-tree-id12 . -40) (undo-tree-id13 . -42) 1122) nil (25775 46278 911317 988000) 0 nil])
+([nil nil ((#("            hash_type=\"sha256\",
+" 0 21 (fontified t) 21 22 (face font-lock-operator-face fontified t) 22 30 (face font-lock-string-face fontified t) 30 31 (fontified t) 31 32 (fontified t)) . 1082) (undo-tree-id5 . -30) (undo-tree-id6 . -31) (undo-tree-id7 . -31) (undo-tree-id8 . -30) (undo-tree-id9 . -32) 1112) nil (25775 46278 911315 872000) 0 nil])
+([nil current ((#("            filename=checkpoint.fname,
+" 0 20 (fontified t) 20 21 (face font-lock-operator-face fontified t) 21 38 (fontified t) 38 39 (fontified t)) . 1082) (undo-tree-id0 . -30) (undo-tree-id1 . -38) (undo-tree-id2 . -38) (undo-tree-id3 . -30) (undo-tree-id4 . -39) 1112) nil (25775 46278 911312 305000) 0 nil])
+nil
